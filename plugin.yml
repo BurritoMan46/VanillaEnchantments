@@ -1,11 +1,12 @@
 ---
 name: VanillaEnchantments
-version: 3.1.0_ALPHA
+version: 3.1.0
 api:
 - 3.0.0-ALPHA9
 - 3.0.0-ALPHA10
 - 3.0.0-ALPHA11
 - 3.0.0-ALPHA12
+- 4.0.0
 author: TheAz928
 website: Github.com/TheAz928/VanillaEnchantments
 main: vanilla\Core
